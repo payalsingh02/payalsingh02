@@ -1,6 +1,6 @@
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm PayalSingh02</h1>
+![MasterHead](https://www.3blmedia.com/sites/www.3blmedia.com/files/images/CISnetAcad-camille-stephanie-feature_1200x675_hero_021121_animated.gif)
+<h1 align="center">Hi 👋, I'm Payal Singh</h1>
 <h3 align="center">IT Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="payalsingh02" /> </p>
